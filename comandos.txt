@@ -1,0 +1,4 @@
+criar a venv: python -m venv .venv
+entrar na venv: .venv\Scripts\activate
+instalar as bibliotecas: pip install torch pandas numpy streamlit altair
+rodar: streamlit run dashboard.py
